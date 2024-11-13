@@ -1,0 +1,7 @@
+        plugins: 
+
+          - jekyll-feed
+
+        title: "Your Organization Name"  
+
+        description: "Organization news and updates" 
