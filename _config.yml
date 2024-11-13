@@ -2,6 +2,7 @@
 
           - jekyll-feed
 
-        title: "metaglitchr"  
+        title: "metaglitchr"
+        theme: jekyll-theme-minimal
 
         description: "Organization news and updates" 
